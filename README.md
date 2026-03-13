@@ -15,4 +15,4 @@ This project analyzes salary trends using cloud data analytics tools.
 - Data visualization charts
 
 ## Insights
-Salary increases consistently with years of experience, with higher salary ranges observed for professionals with more than 8 years of experience.# salary-data-analytics-dashboard
+Salary increases consistently with years of experience, with higher salary ranges observed for professionals with more than 8 years of experience.
